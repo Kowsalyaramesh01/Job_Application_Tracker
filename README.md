@@ -56,6 +56,20 @@ The application stores:
 - Salary
 - Job URL
 
+## 📸 Screenshots
+
+### 🏠 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### 📋 Applications
+
+![Applications](screenshots/applications.png)
+
+### 📊 Analytics
+
+![Analytics](screenshots/analytics.png)
+
 ## ▶️ Run Locally
 
 Install dependencies:
