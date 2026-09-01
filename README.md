@@ -1,47 +1,49 @@
 # 💼 Job Application Tracker
 
-A web-based Job Application Tracker built using Python, Streamlit and MySQL.
+A full-stack Job Application Tracker built using Python, Streamlit, and MySQL/TiDB Cloud.
+
+## 🌐 Live Demo
+
+[Open Job Application Tracker](https://jobapplicationtracker-imjqzxudpvhrltudpcl775.streamlit.app/)
+
+## 💻 GitHub Repository
+
+[View Source Code](https://github.com/Kowsalyaramesh01/Job_Application_Tracker)
 
 ## 🚀 Features
 
-- Add new job applications
-- Prevent duplicate applications
-- Track application status
+- Add job applications
+- Duplicate application prevention
+- Search applications
+- Filter by company, role, status and date
 - Update application status
 - Delete applications
-- Search applications
-- Filter by company
-- Filter by job role
-- Filter by date range
-- Filter by status
-- View application statistics
-- Calculate interview rate
-- View company and job-role analytics
-- Export filtered applications to CSV
-- Refresh application data
+- Dashboard analytics
+- Interview rate calculation
+- Company and job-role analytics
+- CSV export
+- Cloud database integration
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 
 - Python
 - Streamlit
-- MySQL
 - Pandas
-- MySQL Connector
+- MySQL / TiDB Cloud
+- Git & GitHub
 
 ## 📊 Dashboard
 
-The dashboard displays:
+The application provides a dashboard for tracking:
 
 - Total Applications
-- Applied Applications
-- Interview Applications
-- Selected Applications
-- Rejected Applications
+- Applied
+- Interviews
+- Selected
+- Rejected
 - Interview Rate
 
 ## 🗄️ Database
-
-MySQL is used to store job application information.
 
 The application stores:
 
@@ -54,9 +56,9 @@ The application stores:
 - Salary
 - Job URL
 
-## ▶️ How to Run
+## ▶️ Run Locally
 
-Install the required packages:
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
