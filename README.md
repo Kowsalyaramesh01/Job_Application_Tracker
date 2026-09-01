@@ -60,17 +60,19 @@ The application stores:
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🏠 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### 📋 Applications
 
-![Applications](screenshots/applications.png)
+![Applications](./screenshots/applications.png)
 
 ### 📊 Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](./screenshots/analytics.png)
 
 ## ▶️ Run Locally
 
