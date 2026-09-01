@@ -58,6 +58,8 @@ The application stores:
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🏠 Dashboard
 
 ![Dashboard](screenshots/dashboard.png)
