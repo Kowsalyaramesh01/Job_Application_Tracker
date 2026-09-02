@@ -75,3 +75,7 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+Author
+
+Kowsalya.R B.Tech Graduate
