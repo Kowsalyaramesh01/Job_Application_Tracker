@@ -58,10 +58,6 @@ The application stores:
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
-## 📸 Screenshots
-
 ### 🏠 Dashboard
 
 ![Dashboard](./screenshots/dashboard.png)
@@ -73,7 +69,6 @@ The application stores:
 ### 📊 Analytics
 
 ![Analytics](./screenshots/analytics.png)
-
 ## ▶️ Run Locally
 
 Install dependencies:
